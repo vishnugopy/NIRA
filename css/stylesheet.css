@@ -1,0 +1,28 @@
+body{
+
+}
+
+.flero{
+  display: flex;
+  flex-direction: row;
+  justify-content:space-around;
+  text-align: center;
+}
+
+.menus{
+  display: flex;
+  flex-direction: row;
+  justify-content:space-around;
+}
+
+.line{
+  display:block;
+  background-color:blue;
+  height:2px;
+  width:100%;
+  margin-top:10px;
+}
+
+h1{
+  margin:0;
+}
