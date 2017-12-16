@@ -1,7 +1,3 @@
-body{
-
-}
-
 .flero{
   display: flex;
   flex-direction: row;
@@ -25,4 +21,9 @@ body{
 
 h1{
   margin:0;
+}
+
+nav a{
+  text-decoration:none;
+
 }
