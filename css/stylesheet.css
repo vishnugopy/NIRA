@@ -1,3 +1,10 @@
+body{
+  margin:0;
+}
+
+header{
+  padding:1vh;
+}
 .flero{
   display: flex;
   flex-direction: row;
@@ -19,11 +26,26 @@
   margin-top:10px;
 }
 
+.line1{
+  display:block;
+  background-color:blue;
+  height:100%;
+  width:2px;
+}
+
 h1{
   margin:0;
 }
 
 nav a{
   text-decoration:none;
+}
 
+footer,h3{
+text-align: center;
+}
+
+.photo{
+  height:520px;
+  width:100%;
 }
